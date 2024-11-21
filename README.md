@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis Chavez</h1>
-<h3 align="center">A passionate full stack developer from Sacramento, CA!</h3>
+<h3 align="center">Software developer from Sacramento, CA!</h3>
 
 - 📫 How to reach me **louisatellite@gmail.com**
 

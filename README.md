@@ -11,10 +11,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## My Tech Stack
 
-- **Languages:** Python, JavaScript, [other languages you know]
-- **Frameworks:** React, Django, [other frameworks you use]
-- **Tools:** Git, Docker, VS Code, [other tools you use]
-- **Databases:** MySQL, PostgreSQL, MongoDB, [other databases you use]
+- **Languages:** Python, JavaScript, VB6, C#, Nim, Java
+- **Tools:** Git, Docker, VS Code, NeoVim
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
 
 ## GitHub Stats
 
